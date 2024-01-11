@@ -1,0 +1,18 @@
+Git Commands 
+1.To clone a repository
+   git clone <https/SSH link>
+2.To track new or modified files in repository 
+   git status 
+3.To Add new or modified files in Commit
+   git add .
+4.To Commit the changes of added files into local repository (on PC)
+   git commit -m "Message for commit"
+5.To pull the changes of other developers into our files (on github)
+   git pull
+6.To push the commited changes in the files into remote repository (on github)
+   git push 
+
+To create react App
+   npm create-react-app@5 <name of APP>
+To Run React App 
+   npm run start
